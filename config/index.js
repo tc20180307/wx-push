@@ -1,10 +1,10 @@
 module.exports = {
-  appid: "wx71941f6106ae1072",
-  appsecret: "b4b2ad8a8d4a94e403831886ac10c646",
-  template_id: "q14lTqsDyK0N-KcZUs8UKHOl3GWn2uErDk-8hbm2ouQ",
+  appid: "wx0e8dfe4d8859a0c3",
+  appsecret: "e743c8c3261a1b521de0a92ace20b212",
+  template_id: "rRy6ZSuz6yLH2lwukcP_p_Vxgc4BRFDcNGXbjVRLnt4",
   touser: "oonWJ5slWuS2OrJdgCLM3GmNdxVk",
 
   key: "201c93c2e2b34bdeecdbf9f5265eb84e",
-  city: "邢台",
-  first_date: "2022-11-10",
+  city: "重庆",
+  first_date: "2018-03-07",
 };
